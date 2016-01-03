@@ -61,6 +61,8 @@ public class MainActivity extends AppCompatActivity implements SwipeRefreshLayou
         arrayList.add("third");
         arrayList.add("fourth");
         arrayList.add("fifth");
+        arrayList.add("sixth");
+
         return arrayList;
     }
 
