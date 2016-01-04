@@ -56,12 +56,12 @@ public class MainActivity extends AppCompatActivity implements SwipeRefreshLayou
 
     private ArrayList<String> getData(){
 
-        arrayList.add("first");
-        arrayList.add("second");
-        arrayList.add("third");
-        arrayList.add("fourth");
-        arrayList.add("fifth");
-        arrayList.add("sixth");
+        arrayList.add("http://img.my.csdn.net/uploads/201508/05/1438760421_2824.jpg");
+        arrayList.add("http://img.my.csdn.net/uploads/201508/05/1438760420_7188.jpg");
+        arrayList.add("http://img.my.csdn.net/uploads/201508/05/1438760419_4123.jpg");
+        arrayList.add("http://img.my.csdn.net/uploads/201508/05/1438760421_2824.jpg");
+        arrayList.add("http://img.my.csdn.net/uploads/201508/05/1438760420_7188.jpg");
+        arrayList.add("http://img.my.csdn.net/uploads/201508/05/1438760419_4123.jpg");
 
         return arrayList;
     }
